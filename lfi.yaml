@@ -2,7 +2,7 @@ id: lfi-passwd-disclosure
 
 info:
   name: Local File Inclusion - /etc/passwd Disclosure
-  author: custom
+  author: nullkitsunedev
   severity: critical
   description: |
     Detects confirmed LFI via traversal in query parameters. Matches the
